@@ -101,8 +101,3 @@ Do not alter or sell.
 ## 🜏 Constellation Seal
 
 > *A Tool of the Forge Constellation — crafted under the Black Sun.* 🜏
-
-## License
-
-Copyright (c) 2026 EchoForge Studios. All rights reserved.
-No use or copy is permitted without a written license. See [LICENSE](LICENSE).
